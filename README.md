@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on | **Game Development(Unity), C(Mini-projects), Animation(Blender)**
-- 🌱 I’m currently learning | **VFX,ML, Web-Development**
-- 👯 I’m looking to collaborate on | **Blender Projects**
+- 🔭 I’m currently working on | **Game Development(Unity-C#), Animation(Blender)**
+- 🌱 I’m currently learning | **VFX,ML, Web-Development,Python**
 - 🤔 I’m looking for help with | **ML**
 - ⚡ Fun fact: 🎧🎹 There is a pattern 🎵 in  Everything and Everyone 🎶 and music helps you to pick out Patterns 🎹🎧
 <!--
+- 👯 I’m looking to collaborate on | **Blender Projects**
 - 💬 Ask me about | **
 - 📫 How to reach me:
 - 😄 Pronouns:
