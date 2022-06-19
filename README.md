@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ![Justin's Github stats](https://github-readme-stats.vercel.app/api?username=07Apollo07&count_private=true&show_icons=true&theme=algolia)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=07Apollo07&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=050f2c)](https://git.io/streak-stats)
+
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=07Apollo07&layout=compact&show_icons=true&theme=algolia)](https://github.com/07Apollo07/github-readme-stats) -->
 
