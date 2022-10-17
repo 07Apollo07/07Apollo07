@@ -3,10 +3,25 @@
 **07Apollo07/07Apollo07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<h1 align="center">Hi 👋, I'm Justin Dsouza</h1>
+
+<h1 align='center'>
+  Hi there 👋 I'm Justin Dsouza 👨‍💻
+</h1>
+
+<p align='center'>
+  A React and Flutter developer.
+</p>
 
 
-![Profile Visits](https://komarev.com/ghpvc/?username=07Apollo07)
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/justin-dsouza07/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+<!-- ![Profile Visits](https://komarev.com/ghpvc/?username=07Apollo07) -->
 
 <!-- - 🔭 I’m currently working on | **Game Development(Unity-C#), Animation(Blender)** -->
 - 🌱 I’m currently learning | **Flutter and AWS**
@@ -27,4 +42,7 @@ Here are some ideas to get you started:
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=07Apollo07&layout=compact&show_icons=true&theme=algolia)](https://github.com/07Apollo07/github-readme-stats) -->
 
+
+              
+              
 
