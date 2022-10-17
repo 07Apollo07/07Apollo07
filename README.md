@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=07Apollo07&count_private=true&show_icons=true&theme=algolia&" width="350"></a>
-  <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=07Apollo07&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=050f2d" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=07Apollo07&count_private=true&show_icons=true&theme=algolia&" width="400"></a>
+  <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=07Apollo07&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=050f2d" width="400"></a>
 </p>
 
 <!-- ![Justin's Github stats=](https://github-readme-stats.vercel.app/api?username=07Apollo07&count_private=true&show_icons=true&theme=algolia&)
